@@ -1,7 +1,3 @@
-// Name: Puneet Grewal
-// V#: V00951156
-
-
 public class A4Tester {
 
 	private static int testPassCount = 0;
