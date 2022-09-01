@@ -1,6 +1,3 @@
-// Name: Puneet Grewal
-// V#: V00951156
-
 public class MazeRunner {
 	Maze mazeToSolve;
 	A4Stack<MazeLocation> path;
