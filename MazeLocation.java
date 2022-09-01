@@ -1,9 +1,3 @@
-/*
- * MazeLocation.java
- *
- * Created for CSC 115 Assignment 4
- * Do not modify!
- */
 public class MazeLocation {
     int row;
     int col;
